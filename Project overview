@@ -1,0 +1,17 @@
+Project Description
+
+This project forecasts monthly sales for Arbella Supermart using data from January 2022 to December 2024 to predict 2025 performance.
+Machine learning models—Linear Regression, Random Forest, and SVR—were implemented and evaluated with MSE, MAE, and R², alongside AIC and BIC for model fit. 
+Holt’s linear trend method was also applied for time series forecasting. Results show Random Forest provides the most accurate predictions, 
+offering a practical framework for data-driven retail sales forecasting and decision-making.
+
+Packages used 
+pandas: Data handling and preprocessing
+
+NumPy: Numerical operations
+
+Matplotlib: Visualizations
+
+scikit-learn: Machine learning models and evaluation
+
+statsmodels: Holt’s method and statistical modeling
